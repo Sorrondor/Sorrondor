@@ -1,6 +1,6 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-## Hi there 안녕안녕👋
+## 안녕하세요~! Hi there👋
 
 ## Profile
 📞 **Email** | garlemy@gmail.com <br />
