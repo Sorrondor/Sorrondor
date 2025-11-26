@@ -4,8 +4,8 @@
 
 ## Profile
 📞 **Email** | garlemy@gmail.com <br />
-✉ **Phone** | 010-8795-4379
-✉ **Notion** | https://www.notion.so/2b71f96c931a8014b930dde8054f4355?source=copy_link
+✉ **Phone** | 010-8795-4379 <br />
+✉ **Notion** | https://www.notion.so/2b71f96c931a8014b930dde8054f4355?source=copy_link <br />
 
 
 <!--
